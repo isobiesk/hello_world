@@ -1,2 +1,3 @@
 # hello_world
-testing
+
+console.log('Hello World!');
